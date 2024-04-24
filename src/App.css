@@ -1,0 +1,5 @@
+input[value=""  ][type="date"]::-webkit-datetime-edit{ color: transparent; }
+input:focus::-webkit-datetime-edit{ color: #000; }
+::-webkit-scrollbar {
+    display: none;
+  }
